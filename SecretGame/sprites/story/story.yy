@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"SecretGame",
-    "path":"SecretGame.yyp",
+    "name":"Documentation",
+    "path":"folders/Documentation.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
