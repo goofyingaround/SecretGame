@@ -8,8 +8,8 @@
   "name":"Classic_Btn",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Character Select",
+    "path":"folders/Objects/Character Select.yy",
   },
   "parentObjectId":null,
   "persistent":false,
