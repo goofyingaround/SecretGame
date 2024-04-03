@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Bulldog_Button",
-    "path":"sprites/Bulldog_Button/Bulldog_Button.yy",
+    "name":"bulldog",
+    "path":"sprites/bulldog/bulldog.yy",
   },
   "spriteMaskId":null,
   "visible":true,
