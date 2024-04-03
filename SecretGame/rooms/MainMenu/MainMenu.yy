@@ -30,7 +30,7 @@
         {"name":"g_FractalNoisePersistence","type":0,"value":"0.375",},
         {"name":"g_FractalNoiseOffset","type":0,"value":"0",},
         {"name":"g_FractalNoiseOffset","type":0,"value":"0",},
-        {"name":"g_FractalNoiseSpeed","type":0,"value":"0.5",},
+        {"name":"g_FractalNoiseSpeed","type":0,"value":"0.25",},
         {"name":"g_FractalNoiseTintColour","type":1,"value":"#FF4D4D4D",},
         {"name":"g_FractalNoiseTexture","type":2,"value":"_filter_fractal_noise_texture",},
       ],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Menu","path":"sprites/Menu/Menu.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
