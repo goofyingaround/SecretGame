@@ -3,6 +3,7 @@
   "%Name":"Bulldog_Btn",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"Bulldog_Btn",
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Bulldog_Button",
-    "path":"sprites/Bulldog_Button/Bulldog_Button.yy",
+    "name":"bulldog",
+    "path":"sprites/bulldog/bulldog.yy",
   },
   "spriteMaskId":null,
   "visible":true,
