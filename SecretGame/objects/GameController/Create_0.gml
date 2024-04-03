@@ -1,0 +1,4 @@
+ClassicBool=false;
+BulldogBool=false;
+
+
