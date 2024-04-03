@@ -8,8 +8,8 @@
   "name":"Chair_Obj",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Level1",
+    "path":"folders/Objects/Level1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
