@@ -1,5 +1,5 @@
-direction=0
-phy_speed_x=-5;
+
+phy_speed_x=-10;
 
 
  if (x-200 >0 ) and (x-200<CameraMaxX ) then 
