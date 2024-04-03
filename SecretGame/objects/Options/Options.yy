@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Options_Sp",
-    "path":"sprites/Options_Sp/Options_Sp.yy",
+    "name":"Options_Button",
+    "path":"sprites/Options_Button/Options_Button.yy",
   },
   "spriteMaskId":null,
   "visible":true,

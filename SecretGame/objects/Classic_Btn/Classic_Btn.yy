@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Classic_Btn_",
-    "path":"sprites/Classic_Btn_/Classic_Btn_.yy",
+    "name":"Classic_Button",
+    "path":"sprites/Classic_Button/Classic_Button.yy",
   },
   "spriteMaskId":null,
   "visible":true,

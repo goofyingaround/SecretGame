@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Bulldog_Btn_Sprite",
+  "%Name":"Bulldog_Button",
   "bboxMode":0,
   "bbox_bottom":38,
   "bbox_left":2,
@@ -21,19 +21,19 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"2cd9b285-71da-483a-9c6d-aa88d857e52f","blendMode":0,"displayName":"default","isLocked":false,"name":"2cd9b285-71da-483a-9c6d-aa88d857e52f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Bulldog_Btn_Sprite",
+  "name":"Bulldog_Button",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Main Menu Sprites",
-    "path":"folders/Sprites/Main Menu Sprites.yy",
+    "name":"Character Select",
+    "path":"folders/Sprites/Character Select.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Bulldog_Btn_Sprite",
+    "%Name":"Bulldog_Button",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Bulldog_Btn_Sprite",
+    "name":"Bulldog_Button",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,7 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e56c5bdc-9709-4794-898f-b6f5264dea30","path":"sprites/Bulldog_Btn_Sprite/Bulldog_Btn_Sprite.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e56c5bdc-9709-4794-898f-b6f5264dea30","path":"sprites/Bulldog_Button/Bulldog_Button.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"0c3447a5-0dfa-47d3-b6b2-4be06e15b577","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

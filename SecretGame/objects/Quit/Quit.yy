@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Quit_Sp",
-    "path":"sprites/Quit_Sp/Quit_Sp.yy",
+    "name":"Quit_Button",
+    "path":"sprites/Quit_Button/Quit_Button.yy",
   },
   "spriteMaskId":null,
   "visible":true,

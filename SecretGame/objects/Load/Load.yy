@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite6",
-    "path":"sprites/Sprite6/Sprite6.yy",
+    "name":"Load_Button",
+    "path":"sprites/Load_Button/Load_Button.yy",
   },
   "spriteMaskId":null,
   "visible":true,
