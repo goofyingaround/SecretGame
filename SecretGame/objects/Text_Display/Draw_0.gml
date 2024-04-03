@@ -9,8 +9,8 @@ draw_set_colour($FF000000 & $ffffff);draw_set_alpha(1);
 /// @DnDVersion : 1
 /// @DnDHash : 774E8EB9
 /// @DnDArgument : "x" "room_width *.36"
-/// @DnDArgument : "y" "room_height *.8"
+/// @DnDArgument : "y" "room_height *.85"
 /// @DnDArgument : "xscale" "3"
 /// @DnDArgument : "yscale" "3"
 /// @DnDArgument : "caption" ""Choose your character""
-draw_text_transformed(room_width *.36, room_height *.8, string("Choose your character") + "", 3, 3, 0);
+draw_text_transformed(room_width *.36, room_height *.85, string("Choose your character") + "", 3, 3, 0);
