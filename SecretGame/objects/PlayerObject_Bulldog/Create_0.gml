@@ -1,3 +1,4 @@
+phy_active=false;
 phy_rotation=10
 
 image_speed=0;

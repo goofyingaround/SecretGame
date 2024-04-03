@@ -17,6 +17,7 @@
     {"name":"inst_71C4C7C7","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_4CDA3A60","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_54686F33","path":"rooms/Level1/Level1.yy",},
+    {"name":"inst_3C5F7E2","path":"rooms/Level1/Level1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -35,6 +36,7 @@
         {"$GMRInstance":"","%Name":"inst_1E9761D1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1E9761D1","objectId":{"name":"Door_Obj","path":"objects/Door_Obj/Door_Obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.104918,"x":2669.0,"y":454.0,},
         {"$GMRInstance":"","%Name":"inst_71C4C7C7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_71C4C7C7","objectId":{"name":"Wall_Object","path":"objects/Wall_Object/Wall_Object.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":-0.14285715,"scaleY":1.576,"x":1.0,"y":399.0,},
         {"$GMRInstance":"","%Name":"inst_54686F33","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_54686F33","objectId":{"name":"Wall_Object","path":"objects/Wall_Object/Wall_Object.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-90.0,"scaleX":-0.39682552,"scaleY":-5.5439997,"x":1399.0,"y":-3.0,},
+        {"$GMRInstance":"","%Name":"inst_3C5F7E2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3C5F7E2","objectId":{"name":"WardrobeInteraction_Obj","path":"objects/WardrobeInteraction_Obj/WardrobeInteraction_Obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.68,"scaleY":1.192,"x":1223.0,"y":96.0,},
       ],"layers":[],"name":"Back_Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4281498367,"depth":1100,"effectEnabled":true,"effectType":"_filter_underwater","gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[
         {"name":"g_Distort1Speed","type":0,"value":"0.01",},
